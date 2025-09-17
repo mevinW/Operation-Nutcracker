@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8e5bf851b952646248bc3e02c5aace00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tailSwipeIcon: {fileID: 21300000, guid: 9cdbdff507f254951a30e8efe8057fa7, type: 3}
+  - climberClawsIcon: {fileID: 21300000, guid: 90cf78c5a14d141e9b02f8f6d6fd6bbd, type: 3}
+  - checkpointIcon: {fileID: 21300000, guid: 330124febb14c45efb7d129e2799c6a9, type: 3}
+  - invisibilityCloakIcon: {fileID: 21300000, guid: 07ca307c1debd4d4a962043d1255876f, type: 3}
+  - shieldIcon: {fileID: 21300000, guid: e7519d5db234944b19b6d2fd9792dc0d, type: 3}
+  - bootsIcon: {fileID: 21300000, guid: ae6d52ba17bf14059b64480b66d7891f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
